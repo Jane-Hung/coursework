@@ -3,7 +3,16 @@
 **Date:** 2018 Aug 17  
 **Program:** Optum Data Science University - Machine Learning Methods (3 month period)  
 
-## CoNVO: Context, Need, Value, Outcome
+## Table of Contents
+- [CoNVO](#convo)
+- [Question](#question)
+- [Hypothesis](#hypothesis)
+- [Data Lineage](#data-lineage)
+- [Cohort Definition](#cohort-definition)
+- [Execution Instructions](#execution-instructions)
+
+## CoNVO
+**Context, Need, Value, Outcome**  
 Although we have multiple ways to understand and group our providers (i.e. 
 through line of business, size, etc.), we still do not have a full understanding 
 of how to segment our providers. In an environment where our providers feel
