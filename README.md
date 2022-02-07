@@ -64,4 +64,4 @@ have had some affiliation with Medicare and Medicaid. Therefore, providers
 not in our cohort are those that *do not* have any past affiliation with CMS.
 
 ## Execution Instructions
-- To render html files properly, follow these [instructions](https://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview/21657266).
+Click [here](https://htmlpreview.github.io/?https://github.com/jane-hung/provider_segmentation/blob/master/MLM1805_JaneHung.html) for full HTML report.
